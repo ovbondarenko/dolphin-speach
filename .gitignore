@@ -1,0 +1,6 @@
+# Temporary files
+
+*/.ipynb_checkpoints/*
+
+# secrets
+data
